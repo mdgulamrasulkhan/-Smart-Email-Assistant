@@ -54,6 +54,8 @@ Add screenshots of your extension in action.
 **Created AI Reply Button using Extension**
 ![image alt](https://github.com/mdgulamrasulkhan/-Smart-Email-Assistant/blob/912c6d2d3c03b6617e6c1be529e9c6e6ca8c4588/Screenshot%202025-09-01%20193825.png)
 
+**Generating Reply**
+![image alt](https://github.com/mdgulamrasulkhan/-Smart-Email-Assistant/blob/1f424019fb2b9016b1a0f66352f46544f12c941b/Screenshot%202025-09-02%20020850.png)
 
 **AI Generated Reply**
 ![image alt](https://github.com/mdgulamrasulkhan/-Smart-Email-Assistant/blob/912c6d2d3c03b6617e6c1be529e9c6e6ca8c4588/Screenshot%202025-09-01%20193900.png)
