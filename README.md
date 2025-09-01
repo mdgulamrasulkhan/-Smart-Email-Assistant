@@ -34,7 +34,7 @@ Screenshots
 
 Add screenshots of your extension in action.
 
-![image alt](https://github.com/mdgulamrasulkhan/netflix-gemini/blob/e40c3dad7c41e4ec82cc36ed41ac840da234690e/Screenshot%202025-06-27%20182029.png)
+![image alt](https://github.com/mdgulamrasulkhan/-Smart-Email-Assistant/blob/18d5d7ae268f3a15742ab2cc23d1af7dd112e3a7/Screenshot%202025-09-01%20193531.png)
 ![image alt]()
 
 
