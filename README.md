@@ -1,12 +1,41 @@
-# React + Vite
+Smart Email Assistance🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# AI Email Reply Chrome Extension
 
-Currently, two official plugins are available:
+A Chrome extension that integrates with **Gmail** to generate **AI-powered email replies** instantly. Built with **React** (UI), **JavaScript** (content scripts), and a **Spring Boot + Java** backend.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## Features
+- **AI Reply Button** – Adds a smart reply button directly in Gmail's compose window.
+- **Real-Time Email Analysis** – Extracts email content dynamically.
+- **Professional AI Responses** – Generates replies with a professional tone.
+- **React-based Popup UI** – Extension popup built with React for smooth interactions.
+- **Spring Boot Backend** – Handles AI reply generation logic and APIs.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Tech Stack
+- **Frontend:** React, JavaScript, Manifest V3
+- **Backend:** Spring Boot, Java
+- **API Testing:** Postman
+- **Browser:** Chrome Extension
+
+---
+
+## Project Structure
+
+├── backend/ # Spring Boot project
+├── extension/ # Chrome extension (content scripts, manifest.json)
+├── frontend/ # React UI for popup
+└── README.md
+
+Screenshots
+
+Add screenshots of your extension in action.
+
+
+
+##License
+
+MIT License © 2025 MD GULAM RASUL KHAN
