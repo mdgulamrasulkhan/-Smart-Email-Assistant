@@ -33,20 +33,27 @@ A Chrome extension that integrates with **Gmail** to generate **AI-powered email
 Screenshots
 
 Add screenshots of your extension in action.
-
+**BASIC UI**
 ![image alt](https://github.com/mdgulamrasulkhan/-Smart-Email-Assistant/blob/18d5d7ae268f3a15742ab2cc23d1af7dd112e3a7/Screenshot%202025-09-01%20193531.png)
-![image alt]()
+
+**TONE SELECTOR**
+![image alt](https://github.com/mdgulamrasulkhan/-Smart-Email-Assistant/blob/912c6d2d3c03b6617e6c1be529e9c6e6ca8c4588/Screenshot%202025-09-01%20193546.png)
+
+**Generated AI email reply**
+![image alt](https://github.com/mdgulamrasulkhan/-Smart-Email-Assistant/blob/912c6d2d3c03b6617e6c1be529e9c6e6ca8c4588/Screenshot%202025-09-01%20193704.png)
+
+**API Testing Using POSTMAN**
+![image alt](https://github.com/mdgulamrasulkhan/-Smart-Email-Assistant/blob/912c6d2d3c03b6617e6c1be529e9c6e6ca8c4588/Screenshot%202025-09-01%20193736.png)
+
+**Created AI Reply Button using Extension**
+![image alt](https://github.com/mdgulamrasulkhan/-Smart-Email-Assistant/blob/912c6d2d3c03b6617e6c1be529e9c6e6ca8c4588/Screenshot%202025-09-01%20193825.png)
 
 
-![image alt]()
+**AI Generated Reply**
+![image alt](https://github.com/mdgulamrasulkhan/-Smart-Email-Assistant/blob/912c6d2d3c03b6617e6c1be529e9c6e6ca8c4588/Screenshot%202025-09-01%20193900.png)
 
-![image alt]()
-
-![image alt]()
-
-![image alt]()
-
-![image alt]()
+**AI Generated Reply of email**
+![image alt](https://github.com/mdgulamrasulkhan/-Smart-Email-Assistant/blob/912c6d2d3c03b6617e6c1be529e9c6e6ca8c4588/Screenshot%202025-09-01%20194157.png)
 
 
 
