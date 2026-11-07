@@ -20,10 +20,12 @@ function App() {
 
     try {
       const response = await axios.post(
-        "http://localhost:8080/api/email/generate",
-        { emailContent, tone }
-      );
-
+  `${import.meta.env.VITE_API_BASE_URL}/api/email/generate`,
+  {
+    emailContent: email,
+    tone: tone
+  }
+);
       setGeneratedReply(
         typeof response.data === "string"
           ? response.data
