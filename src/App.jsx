@@ -22,8 +22,8 @@ function App() {
       const response = await axios.post(
   `${import.meta.env.VITE_API_BASE_URL}/api/email/generate`,
   {
-    emailContent: emailContent,
-    tone: tone
+    emailContent,
+    tone
   }
 );
       setGeneratedReply(
