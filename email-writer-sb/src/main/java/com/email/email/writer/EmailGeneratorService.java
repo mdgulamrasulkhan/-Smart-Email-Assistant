@@ -41,15 +41,15 @@ public class EmailGeneratorService {
 
 // Send Request
   String response = webClient.post()
-          .uri(uriBuilder -> uriBuilder
-                  .path("/v1beta/models/gemini-3.8-flash:generateContent")
-                  .build())
-          .header("x-goog-api-key", apiKey)
-          .header("Content-Type","application/json")
-          .bodyValue(requestBody)
-          .retrieve()
-          .bodyToMono(String.class)
-          .block();
+        .uri(uriBuilder -> uriBuilder
+                .path("/v1beta/models/gemini-3.5-flash-lite:generateContent")
+                .build())
+        .header("x-goog-api-key", apiKey)
+        .header("Content-Type", "application/json")
+        .bodyValue(requestBody)
+        .retrieve()
+        .bodyToMono(String.class)
+        .block();
 
   // Extract Response
        return extractResponseContent(response);
